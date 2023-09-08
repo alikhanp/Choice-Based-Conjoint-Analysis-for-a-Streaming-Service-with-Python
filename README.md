@@ -1,4 +1,4 @@
-# Conduct a Choice-Based Conjoint Analysis for “PopFlicks” a Streaming Service:
+# Choice-Based Conjoint Analysis for “PopFlicks” a Streaming Service:
 
 **Built with Python in Jupiter Notebook**
 
